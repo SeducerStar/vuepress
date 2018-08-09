@@ -65,7 +65,7 @@ module.exports = {
 
 指定用于 dev 服务器的端口。
 
-### dest
+### dist
 
 - Type: `string`
 - Default: `.vuepress/dist`
